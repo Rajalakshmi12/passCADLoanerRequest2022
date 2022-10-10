@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_lr.GitHubRaji</id>
+        <multiple_connections>false</multiple_connections>
+        <name>GitHubRaji</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-10 10:25:09</sys_created_on>
+        <sys_id>1a432e4839e211107f44e1bf3e33e27f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_lr.GitHubRaji</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_lr">27303d08392211107f44e1bf3e33e288</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">27303d08392211107f44e1bf3e33e288</sys_scope>
+        <sys_update_name>sys_alias_1a432e4839e211107f44e1bf3e33e27f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-10 10:25:09</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">27303d08392211107f44e1bf3e33e288</application>
+        <file_path/>
+        <instance_id>8764d0d747d2d9101baf3d55d36d4341</instance_id>
+        <instance_name>nowlearning-nlinst00360150-001</instance_name>
+        <name>sys_alias_1a432e4839e211107f44e1bf3e33e27f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_snc_lr.GitHubRaji</id><multiple_connections>false</multiple_connections><name>GitHubRaji</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-10 10:25:09</sys_created_on><sys_id>1a432e4839e211107f44e1bf3e33e27f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_lr.GitHubRaji</sys_name><sys_package display_value="Loaner Request" source="x_snc_lr">27303d08392211107f44e1bf3e33e288</sys_package><sys_policy/><sys_scope display_value="Loaner Request">27303d08392211107f44e1bf3e33e288</sys_scope><sys_update_name>sys_alias_1a432e4839e211107f44e1bf3e33e27f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-10 10:25:09</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>260282694</payload_hash>
+        <record_name>x_snc_lr.GitHubRaji</record_name>
+        <reverted_from/>
+        <source>63303d08392211107f44e1bf3e33e28a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-10 10:25:09</sys_created_on>
+        <sys_id>9a63ea4839e211107f44e1bf3e33e2cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183c16d4d660000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-10 10:25:09</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>d263ea4826e2111093eda64be1efd9cb</update_guid>
+        <update_guid_history>d263ea4826e2111093eda64be1efd9cb:260282694</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-10 10:46:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>0194b0385e76409881c51a9de7f77464</sys_id>
+        <sys_metadata>1a432e4839e211107f44e1bf3e33e27f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_lr.GitHubRaji</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_lr">27303d08392211107f44e1bf3e33e288</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">27303d08392211107f44e1bf3e33e288</sys_scope>
+        <sys_scope_delete display_value="">242d5a5760d645a08550d615e2578400</sys_scope_delete>
+        <sys_update_name>sys_alias_1a432e4839e211107f44e1bf3e33e27f</sys_update_name>
+        <sys_update_version display_value="sys_alias_1a432e4839e211107f44e1bf3e33e27f">9a63ea4839e211107f44e1bf3e33e2cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-10 10:46:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
